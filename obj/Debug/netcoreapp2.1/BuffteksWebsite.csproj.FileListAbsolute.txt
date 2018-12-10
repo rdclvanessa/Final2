@@ -1,0 +1,96 @@
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/bin/Debug/netcoreapp2.1/BuffteksWebsite.deps.json
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/bin/Debug/netcoreapp2.1/BuffteksWebsite.runtimeconfig.json
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/bin/Debug/netcoreapp2.1/BuffteksWebsite.runtimeconfig.dev.json
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/bin/Debug/netcoreapp2.1/BuffteksWebsite.dll
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/bin/Debug/netcoreapp2.1/BuffteksWebsite.pdb
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/bin/Debug/netcoreapp2.1/BuffteksWebsite.Views.dll
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/bin/Debug/netcoreapp2.1/BuffteksWebsite.Views.pdb
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.csprojAssemblyReference.cache
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.csproj.CoreCompileInputs.cache
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.RazorAssemblyInfo.cache
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.RazorAssemblyInfo.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.AssemblyInfoInputs.cache
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.AssemblyInfo.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.TagHelpers.input.cache
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.TagHelpers.output.cache
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.RazorCoreGenerate.cache
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Clients/Create.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Clients/Delete.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Clients/Details.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Clients/Edit.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Clients/Index.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Members/Create.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Members/Delete.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Members/Details.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Members/Edit.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Members/Index.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Projects/Create.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Projects/Delete.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Projects/Details.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Projects/Edit.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Projects/EditProjectParticipants.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Projects/Index.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Shared/temp.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.RazorTargetAssemblyInfo.cache
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.RazorTargetAssemblyInfo.cs
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.Views.pdb
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.dll
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.pdb
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.csproj.CopyComplete
+D:/jeff/Dropbox/CIS/CIDM/CIDM3312/Fall 2018/Code/CIDM3312-Fall2018-InClass/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Projects/AddProjectClientParticipant.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/bin/Debug/netcoreapp2.1/BuffteksWebsite.deps.json
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/bin/Debug/netcoreapp2.1/BuffteksWebsite.runtimeconfig.json
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/bin/Debug/netcoreapp2.1/BuffteksWebsite.runtimeconfig.dev.json
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/bin/Debug/netcoreapp2.1/BuffteksWebsite.dll
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/bin/Debug/netcoreapp2.1/BuffteksWebsite.pdb
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/bin/Debug/netcoreapp2.1/BuffteksWebsite.Views.dll
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/bin/Debug/netcoreapp2.1/BuffteksWebsite.Views.pdb
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.csprojAssemblyReference.cache
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.csproj.CoreCompileInputs.cache
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.RazorAssemblyInfo.cache
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.RazorAssemblyInfo.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.AssemblyInfoInputs.cache
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.AssemblyInfo.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.TagHelpers.input.cache
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.TagHelpers.output.cache
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.RazorCoreGenerate.cache
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Clients/Create.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Clients/Delete.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Clients/Details.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Clients/Edit.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Clients/Index.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Members/Create.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Members/Delete.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Members/Details.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Members/Edit.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Members/Index.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Projects/AddProjectClientParticipant.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Projects/Create.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Projects/Delete.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Projects/Details.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Projects/Edit.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Projects/EditProjectParticipants.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Projects/Index.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Shared/temp.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.RazorTargetAssemblyInfo.cache
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.RazorTargetAssemblyInfo.cs
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.Views.pdb
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.dll
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.pdb
+/Users/Xander/Desktop/CIDM3312/Final2/BuffteksWebsite/obj/Debug/netcoreapp2.1/BuffteksWebsite.csproj.CopyComplete
